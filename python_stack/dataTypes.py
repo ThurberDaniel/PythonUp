@@ -44,3 +44,5 @@ def say_hello(name=""):
         print('No name')
 # now we're unindented and have ended the previous block
 print('Outside of the function')
+for count in range (0,7):
+    print("looping-", count)
